@@ -27,6 +27,10 @@ Clone this repository:
 ```
 git clone https://github.com/k1erro/flask-website.git
 ```
+## Features 📋
+- Working database: user ID, email, password, first name
+- user login/signup
+- user access to different pages
 ___
 ## Repository Structure 🌳
 ![alt text](/img/repo_structure.png)
