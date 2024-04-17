@@ -1,0 +1,24 @@
+# E-CARS SHOP 🚗
+![alt text](/img/logo.png)
+
+👋Welcome to E-CARS SHOP, a training project aimed at creating an online platform for buying and selling cars.
+
+## Requirements🏇
+
+To run this project, make sure you have the following dependencies installed:
+
+```python
+Flask==3.0.3
+Flask_Login==0.6.3
+flask_sqlalchemy==3.1.1
+SQLAlchemy==2.0.23
+Werkzeug==3.0.2
+```
+You can install them using pip:
+```
+pip install -r requirements.txt
+```
+___
+## Repository Structure 🌳
+![alt text](/img/repo_structure.png)
+___
