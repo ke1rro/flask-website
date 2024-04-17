@@ -2,8 +2,8 @@
 ![alt text](/img/logo.png)
 
 👋Welcome to E-CARS SHOP, a training project aimed at creating an online platform for buying and selling cars.
-
-## Requirements🏇
+___
+## Requirements 🏇
 
 To run this project, make sure you have the following dependencies installed:
 
@@ -17,6 +17,15 @@ Werkzeug==3.0.2
 You can install them using pip:
 ```
 pip install -r requirements.txt
+```
+___
+
+## Installation 💿
+
+Clone this repository:
+
+```
+git clone https://github.com/k1erro/flask-website.git
 ```
 ___
 ## Repository Structure 🌳
